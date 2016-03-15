@@ -1,0 +1,3 @@
+HOMEBRIDGE_OPTS=-U /home/pi/.homebridge
+
+DEBUG=*
